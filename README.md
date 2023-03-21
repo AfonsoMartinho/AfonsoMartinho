@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Welcome to my Personal readme file! 🔥
+## Welcome to my personal readme file! 🔥
 
 **Abou Me**
 
