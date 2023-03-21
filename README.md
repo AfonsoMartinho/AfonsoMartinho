@@ -1,11 +1,7 @@
 ### Hi there 👋
 ## Welcome to my personal readme file! 🔥
 
-**Abou Me**
-
-My name is Afonso Vieira Campos Leça Martinho, I live in Oporto, Portugal and I’m a web developer. I am 30 years old and live in this beautiful city with my wife and dog. In my spare time I like to surf, play tennis, paddle and football. I also play the guitar since I was 15 and enjoy listening to all types of music. I consider myself a giving and sociable person who loves hanging out with friends and explore other countries cultures.
-
-**What I do**
+**About Me**
 
 I am a Web Developer with a lot of passion for programming. Mostly, I've been working with Frontend Technologies in multidisciplinary teams with Agile/Scrum methodologies. In my day-to-day work, I code mainly in React and Typescript projects using CSS preprocessors like SCSS and Sass. Some medium-sized projects are state managed with Redux and others with MobX. All the projects are End-to-End and Unit tested with enzyme and Jest.
 
